@@ -8,7 +8,7 @@ Raw sequencing data will be available later in GEO database.
 
 
 
-My environment:
+My environment: (not all are neccessary)
 
 ```
 R version 3.6.0 (2019-04-26)
