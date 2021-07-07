@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5078140.svg)](https://doi.org/10.5281/zenodo.5078140)
+
 
 Processed data files (Rds) can be downloaded from links below
  https://drive.google.com/file/d/1NG9l_utCUBgJRdOCdEBHm1FIkh7LOjGV/view?usp=sharing
